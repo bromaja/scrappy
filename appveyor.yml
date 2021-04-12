@@ -1,0 +1,4 @@
+image: Ubuntu2004
+
+build_script:
+  - sh: ./build.sh apg
